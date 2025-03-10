@@ -18,7 +18,7 @@ JSON Validator is a web-based React application designed to help users upload, v
 ## **Demo & Screenshots**
 
 ### **Live Demo**:
-You can view the live demo of the application here: [Insert live demo link]
+You can view the live demo of the application here: https://placementteamcontent.github.io/TagNames-Validator/
 
 ### **Screenshots**:
 ![Screenshot 1](path_to_screenshot_1.jpg)  
@@ -156,6 +156,5 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - Email: lakshmeepathin184@gmail.com
 - GitHub: https://github.com/LakshmipathiNakka
-- Deployed Link: https://placementteamcontent.github.io/TagNames-Validator/
 
 ---
